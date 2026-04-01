@@ -1,0 +1,1 @@
+i made this project for my ai for cybersec class . i used the dataset of cic iomt 2024 feel free to use this for ur project.
